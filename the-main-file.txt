@@ -4,6 +4,7 @@ here will be the edits to include features in dev:
 andrews first feature
 andrews second feature
 Keval feature 1
-Keval feature 2
+Keval Feature 2
 Amirs First Feature
 Amir's second feature
+
